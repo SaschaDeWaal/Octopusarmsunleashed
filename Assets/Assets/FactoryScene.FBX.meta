@@ -1,0 +1,228 @@
+fileFormatVersion: 2
+guid: c3a7fe7c6f0d3dd479a4e0ca84e7f82e
+timeCreated: 1488839725
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Alarm1
+    100002: AlarmBase
+    100004: C_Box
+    100006: ChamferBox001
+    100008: ControlBox
+    100010: ConveyerBelt
+    100012: ConveyerBelt001
+    100014: ConveyerBelt002
+    100016: ConveyerBelt003
+    100018: ConveyerBelt004
+    100020: ConveyerBelt005
+    100022: conveyor belt
+    100024: //RootNode
+    100026: GeoSphere001
+    100028: Lever
+    100030: Roller014
+    100032: Roller015
+    100034: Roller016
+    100036: Roller017
+    100038: Roller018
+    100040: Roller019
+    100042: Roller020
+    100044: Roller021
+    100046: Roller022
+    100048: Roller023
+    100050: Roller024
+    100052: Roller025
+    100054: Roller026
+    100056: Roller027
+    100058: Roller028
+    100060: Roller029
+    400000: Alarm1
+    400002: AlarmBase
+    400004: C_Box
+    400006: ChamferBox001
+    400008: ControlBox
+    400010: ConveyerBelt
+    400012: ConveyerBelt001
+    400014: ConveyerBelt002
+    400016: ConveyerBelt003
+    400018: ConveyerBelt004
+    400020: ConveyerBelt005
+    400022: conveyor belt
+    400024: //RootNode
+    400026: GeoSphere001
+    400028: Lever
+    400030: Roller014
+    400032: Roller015
+    400034: Roller016
+    400036: Roller017
+    400038: Roller018
+    400040: Roller019
+    400042: Roller020
+    400044: Roller021
+    400046: Roller022
+    400048: Roller023
+    400050: Roller024
+    400052: Roller025
+    400054: Roller026
+    400056: Roller027
+    400058: Roller028
+    400060: Roller029
+    2300000: Alarm1
+    2300002: AlarmBase
+    2300004: C_Box
+    2300006: ChamferBox001
+    2300008: ControlBox
+    2300010: ConveyerBelt
+    2300012: ConveyerBelt001
+    2300014: ConveyerBelt002
+    2300016: ConveyerBelt003
+    2300018: ConveyerBelt004
+    2300020: ConveyerBelt005
+    2300022: conveyor belt
+    2300024: GeoSphere001
+    2300026: Lever
+    2300028: Roller014
+    2300030: Roller015
+    2300032: Roller016
+    2300034: Roller017
+    2300036: Roller018
+    2300038: Roller019
+    2300040: Roller020
+    2300042: Roller021
+    2300044: Roller022
+    2300046: Roller023
+    2300048: Roller024
+    2300050: Roller025
+    2300052: Roller026
+    2300054: Roller027
+    2300056: Roller028
+    2300058: Roller029
+    3300000: Alarm1
+    3300002: AlarmBase
+    3300004: C_Box
+    3300006: ChamferBox001
+    3300008: ControlBox
+    3300010: ConveyerBelt
+    3300012: ConveyerBelt001
+    3300014: ConveyerBelt002
+    3300016: ConveyerBelt003
+    3300018: ConveyerBelt004
+    3300020: ConveyerBelt005
+    3300022: conveyor belt
+    3300024: GeoSphere001
+    3300026: Lever
+    3300028: Roller014
+    3300030: Roller015
+    3300032: Roller016
+    3300034: Roller017
+    3300036: Roller018
+    3300038: Roller019
+    3300040: Roller020
+    3300042: Roller021
+    3300044: Roller022
+    3300046: Roller023
+    3300048: Roller024
+    3300050: Roller025
+    3300052: Roller026
+    3300054: Roller027
+    3300056: Roller028
+    3300058: Roller029
+    4300000: ChamferBox001
+    4300002: C_Box
+    4300004: conveyor belt
+    4300006: AlarmBase
+    4300008: Alarm1
+    4300010: GeoSphere001
+    4300012: Roller014
+    4300014: Roller015
+    4300016: Roller016
+    4300018: Roller017
+    4300020: Roller018
+    4300022: Roller019
+    4300024: Roller020
+    4300026: Roller021
+    4300028: Roller022
+    4300030: Roller023
+    4300032: Roller024
+    4300034: Roller025
+    4300036: Roller026
+    4300038: Roller027
+    4300040: Roller028
+    4300042: Roller029
+    4300044: ConveyerBelt
+    4300046: ConveyerBelt001
+    4300048: ConveyerBelt002
+    4300050: ConveyerBelt003
+    4300052: ConveyerBelt004
+    4300054: ConveyerBelt005
+    4300056: ControlBox
+    4300058: Lever
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
